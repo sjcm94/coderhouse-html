@@ -42,6 +42,7 @@ body {
   font-family: $font-main;
   color: $color-black;
   background: linear-gradient(to top, #fdeaff, #ffffff);
+  min-height: 100vh;
 }
 
 main img {
